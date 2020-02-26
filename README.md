@@ -1,8 +1,21 @@
-> Microverse Students Blog 
+### Microverse Students Blog
 
-# Prerequisites
+To include your article on this list please send a PR.
 
-- Get your browsers up to date
+## HTML & CSS
+
+- [CSS Grid IS a grid framework](https://blog.mauriciorobayo.com/css-grid-is-a-grid-framework-ck6jih6cy00u6dfs1vtev2kjl) by [Mauricio Robayo](https://github.com/MauricioRobayo)
+
+## Ruby
+
+## Ruby on Rails
+
+## JavaScript
+
+- [How to hide your front-end API keys](https://blog.mauriciorobayo.com/how-to-hide-your-front-end-api-keys-ck6jqvll900y3dfs11u3x96tn) by [Mauricio Robayo](https://github.com/MauricioRobayo)
+- [10x your code with the facade pattern, currying, and closures](https://blog.mauriciorobayo.com/css-grid-is-a-grid-framework-ck6jih6cy00u6dfs1vtev2kjl) by [Mauricio Robayo](https://github.com/MauricioRobayo)
+
+## React
 
 ## Authors
 
